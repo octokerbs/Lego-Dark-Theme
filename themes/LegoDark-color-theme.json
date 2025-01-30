@@ -1438,7 +1438,8 @@
                                         "keyword",
                                         "keyword.control",
                                         "keyword.operator.new",
-                                        "keyword.other"
+                                        "keyword.other",
+                                        "storage.modifier"
                                 ],
                                 "settings": {
                                         "foreground": "#FF5242",
@@ -1477,7 +1478,8 @@
                                 "scope": [
                                         "entity.name.type.class",
                                         "class",
-                                        "type"
+                                        "type",
+                                        "storage.type"
                                 ],
                                 "settings": {
                                         "foreground": "#F9CB5E",
@@ -1486,7 +1488,7 @@
                         },
                         {
                                 "scope": [
-                                        "storage.type"
+                                        
                                 ],
                                 "settings": {
                                         "foreground": "#F5C2E7",

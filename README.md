@@ -1,16 +1,53 @@
-# legodark README
+# Lego Dark Theme 🎨
 
-## Working with Markdown
+A visually stunning and consistent dark theme for VS Code, inspired by the Material Theme Dark High Contrast and Visual Assist from Visual Studio.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- High Contrast: Clear and distinct syntax highlighting for better readability.
 
-## For more information
+- Vibrant Colors: Carefully chosen vibrant colors to make your code pop.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Easy on the Eyes: Designed for long coding sessions without eye strain.
 
-**Enjoy!**
+## Showcase
+
+Here are some examples of the Lego Dark Theme in action:
+
+### Go (Golang)
+
+![Golang Example](https://github.com/KerbsOD/Lego-Dark-Theme/showcase/GolangAPI.png)
+
+### C++ (OpenGL)
+
+![OpenGL C++ Example](https://github.com/KerbsOD/Lego-Dark-Theme/showcase/OpenGLC++.png)
+
+### TypeScript (React)
+
+![React TypeScript Example](https://github.com/KerbsOD/Lego-Dark-Theme/showcase/ReactTS.png)
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, bug reports, or want to contribute to the theme, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch (git checkout -b feature/AmazingFeature).
+
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+
+4. Push to the branch (git push origin feature/AmazingFeature).
+
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+
+Inspired by Material Theme Dark High Contrast and Visual Assist.
+
+---
+
+Enjoy coding with Lego Dark Theme! If you love it, consider giving it a ⭐ on the VS Code Marketplace. 😊
