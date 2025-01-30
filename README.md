@@ -18,13 +18,13 @@ Here are some examples of the Lego Dark Theme in action:
 
 ![Golang Example](./showcase/GolangAPI.png)
 
-### C++ (OpenGL)
-
-![OpenGL C++ Example](./showcase/OpenGLcpp.png)
-
 ### TypeScript (React)
 
 ![React TypeScript Example](./showcase/ReactTS.png)
+
+### C++ (OpenGL)
+
+![OpenGL C++ Example](./showcase/OpenGLcpp.png)
 
 ## Contributing
 
