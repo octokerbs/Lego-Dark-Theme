@@ -16,15 +16,15 @@ Here are some examples of the Lego Dark Theme in action:
 
 ### Go (Golang)
 
-![Golang Example](https://github.com/KerbsOD/Lego-Dark-Theme/tree/master/showcase/GolangAPI.png)
+![Golang Example](./showcase/GolangAPI.png)
 
 ### C++ (OpenGL)
 
-![OpenGL C++ Example](https://github.com/KerbsOD/Lego-Dark-Theme/tree/master/showcase/OpenGLcpp.png)
+![OpenGL C++ Example](./showcase/OpenGLcpp.png)
 
 ### TypeScript (React)
 
-![React TypeScript Example](https://github.com/KerbsOD/Lego-Dark-Theme/tree/master/showcase/ReactTS.png)
+![React TypeScript Example](./showcase/ReactTS.png)
 
 ## Contributing
 

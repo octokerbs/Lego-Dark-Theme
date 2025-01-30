@@ -5,6 +5,7 @@
   "icon": "legodarklogo.png",
   "version": "0.0.1",
   "publisher": "okerbs",
+  "repository": "https://github.com/KerbsOD/Lego-Dark-Theme",
   "engines": {
     "vscode": "^1.96.0"
   },
