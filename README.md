@@ -7,7 +7,18 @@
 
 A visually stunning and consistent dark theme for VS Code, inspired by the Material Theme Dark High Contrast and Visual Assist from Visual Studio.
 
+
+
+
 </div>
+
+## Install
+Find it on the VSCode extension marketplace as `Lego Dark theme` 
+
+or install it manually launching VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+```
+ext install okerbs-publisher.lego-dark-theme
+```
 
 ## Features
 
