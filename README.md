@@ -1,6 +1,6 @@
  <div align="center">
 <p align="center">
-  <img width="302" height="302" src="./ghlogo.svg">
+  <img width="302" height="302" src="./legodarklogoREPO.png">
 </p>
 
 # Lego Dark Theme 🎨
