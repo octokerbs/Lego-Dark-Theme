@@ -1,6 +1,13 @@
+ <div align="center">
+<p align="center">
+  <img width="302" height="302" src="./ghlogo.svg">
+</p>
+
 # Lego Dark Theme 🎨
 
 A visually stunning and consistent dark theme for VS Code, inspired by the Material Theme Dark High Contrast and Visual Assist from Visual Studio.
+
+</div>
 
 ## Features
 
