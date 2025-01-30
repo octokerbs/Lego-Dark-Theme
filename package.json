@@ -4,7 +4,7 @@
   "description": "A vibrant color theme based on material theme and visual assist.",
   "icon": "./legodarklogoEXTENSION.png",
   "version": "0.0.1",
-  "publisher": "okerbs",
+  "publisher": "okerbs-publisher",
   "repository": "https://github.com/KerbsOD/Lego-Dark-Theme",
   "engines": {
     "vscode": "^1.96.0"
