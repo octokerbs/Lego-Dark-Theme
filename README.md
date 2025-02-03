@@ -14,7 +14,7 @@ A visually stunning and consistent dark theme for VS Code, inspired by the Mater
 
 ## Install
 
-⚠️ For better syntax highlighting add `"editor.semanticHighlighting.enabled": true"` to your settings.json
+⚠️ For better syntax highlighting add `"editor.semanticHighlighting.enabled": true` to your settings.json
 
 Find it on the VSCode extension marketplace as `Lego Dark Theme` 
 
