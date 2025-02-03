@@ -3,7 +3,7 @@
         "displayName": "Lego Dark Theme",
         "description": "A vibrant color theme based on material theme and visual assist.",
         "icon": "./legodarklogoEXTENSION.png",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "publisher": "okerbs-publisher",
         "repository": "https://github.com/KerbsOD/Lego-Dark-Theme",
         "engines": {
