@@ -244,7 +244,9 @@
                         "scope": [
                                 "variable",
                                 "entity.name.variable",
-                                "meta.tag.attributes"
+                                "meta.tag.attributes",
+                                "variable.parameter.uppercase.prolog",
+                                "variable.parameter.prolog",
                         ],
                         "settings": {
                                 "foreground": "#FEF6D0",
@@ -346,7 +348,8 @@
                                 "entity.name.variable.parameter",
                                 "meta.method-call.java",
                                 "meta.fstring",
-                                "string.quoted.other.lt-gt.include.cpp"
+                                "string.quoted.other.lt-gt.include.cpp",
+                                "punctuation.section.regexp.prolog"
                         ],
                         "settings": {
                                 "foreground": "#F78C6C",
