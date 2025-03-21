@@ -28,14 +28,14 @@ This document outlines the semantic meaning of each color in the theme, ensuring
 
 ---
 
-### **Black (#1E1E1E)**
+### **Dark Grey (#1E1E1E)**
 
-**Purpose:** Base color for the editor.  
+**Purpose:** Comment colors.  
 **Scope:**
 
-- Editor background
+- Colors for the comments 
 
-**Rationale:** Black serves as the foundation of the theme, providing contrast and ensuring readability for all other colors.
+**Rationale:** Dark Grey can be easily seen with this dark background but also easily ignored when trying to read actual code.
 
 ---
 
@@ -68,11 +68,9 @@ This document outlines the semantic meaning of each color in the theme, ensuring
 **Purpose:** Segregates external and non-core elements.  
 **Scope:**
 
-- Comments
-- Strings
 - External modules
 
-**Rationale:** Green adds vibrancy and helps distinguish external modules and non-executable elements (like comments and strings) from the core logic of the code.
+**Rationale:** Green adds vibrancy and helps distinguish external modules.
 
 ---
 
@@ -94,6 +92,7 @@ This document outlines the semantic meaning of each color in the theme, ensuring
 **Purpose:** Highlights literal values and constants.  
 **Scope:**
 
+- Strings
 - Constant variables
 - Language defaults (e.g., numbers, booleans, `nil`, `null`)
 - Function/Method parameters (if passed by value)

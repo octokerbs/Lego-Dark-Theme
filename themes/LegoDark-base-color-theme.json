@@ -239,6 +239,7 @@
                                 "foreground": "#B267E6"
                         }
                 },
+
                 // ---------- General ---------- //
                 {
                         "scope": [
@@ -271,9 +272,11 @@
                         }
                 },
                 {
-                        "scope": [],
+                        "scope": [
+        "comment",
+                        "comment.punctuation.definition.commententity.name.variable"      ],
                         "settings": {
-                                "foreground": "#1E1E1E",
+                                "foreground": "#7F7F7F",
                                 "fontStyle": ""
                         }
                 },
@@ -309,9 +312,6 @@
                 {
                         "scope": [
                                 "entity.name.namespace",
-                                "comment",
-                                "string",
-                                "comment punctuation.definition.comment",
                                 "entity.name.type.namespace",
                                 "storage.type.annotation.java",
                                 "punctuation.definition.annotation.java",
@@ -340,6 +340,7 @@
                 },
                 {
                         "scope": [
+                                "string",
                                 "support.constant",
                                 "variable.parameter",
                                 "variable.other.constant",
